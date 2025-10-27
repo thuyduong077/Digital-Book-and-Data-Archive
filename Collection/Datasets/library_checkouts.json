@@ -1,0 +1,32 @@
+[
+  {
+    "book_id": "B001",
+    "title": "Data Science 101",
+    "checkout_date": "2025-01-12",
+    "member_id": "M100"
+  },
+  {
+    "book_id": "B002",
+    "title": "Machine Learning Intro",
+    "checkout_date": "2025-01-15",
+    "member_id": "M101"
+  },
+  {
+    "book_id": "B003",
+    "title": "Deep Learning",
+    "checkout_date": "2025-02-01",
+    "member_id": "M102"
+  },
+  {
+    "book_id": "B004",
+    "title": "AI Ethics",
+    "checkout_date": "2025-02-10",
+    "member_id": "M103"
+  },
+  {
+    "book_id": "B005",
+    "title": "Data Visualization",
+    "checkout_date": "2025-03-05",
+    "member_id": "M104"
+  }
+]
