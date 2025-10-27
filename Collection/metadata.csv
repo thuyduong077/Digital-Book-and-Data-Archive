@@ -1,1 +1,7 @@
+Item Name,Type,Description,Creator,Date Added,Format,Rights
+student_performance.csv,Dataset,Student test score data for analysis,UNT Digital Project,2025-10-27,CSV,CC BY-NC 4.0
+library_checkouts.json,Dataset,Historical library circulation records,UNT Digital Project,2025-10-27,JSON,CC BY-NC 4.0
+survey_responses.xlsx,Dataset,Survey data from user feedback,UNT Digital Project,2025-10-27,XLSX,CC BY-NC 4.0
+deep_learning_cover.jpg,Image,Book cover: Deep Learning,Ian Goodfellow,2025-10-27,JPEG,Educational use
+data_science_business_cover.jpg,Image,Book cover: Data Science for Business,Foster Provost,2025-10-27,JPEG,Educational use
 
